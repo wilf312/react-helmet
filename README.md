@@ -1,3 +1,15 @@
+add package.json
+
+```
+wilf312/react-helmet.git#5.2.1
+```
+
+changelog https://github.com/wilf312/react-helmet/compare/5.2.0...5.2.1
+
+awesome pr https://github.com/nfl/react-helmet/pull/444
+
+
+
 <img align="right" width="200" src="http://static.nfl.com/static/content/public/static/img/logos/react-helmet.jpg" />
 
 # React Helmet
